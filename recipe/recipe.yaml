@@ -15,7 +15,7 @@ source:
   sha256: ea8252594591990a508ab210851a5d213648e75e9787dc5115a0d43193e0f50f
 
 build:
-  number: 0
+  number: 1
   script:
     env:
       CGO_ENABLED: "0"
